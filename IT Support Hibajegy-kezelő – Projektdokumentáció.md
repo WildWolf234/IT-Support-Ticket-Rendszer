@@ -1,4 +1,4 @@
-# IT Support Hibajegy-kezelő – Projektdokumentáció
+#README
 
 Készítette: Ádám Adrián 
 
