@@ -40,6 +40,7 @@ A lista neve Hibajegyek.
 | Létrehozva | `Letrehozva` | Dátum és idő | Külön oszlop a beépített `Created` helyett, hogy a tesztadat visszadátumozható legyen |
 | Lezárva | `Lezarva` | Dátum és idő | Megoldáskor automatikusan kitöltődik |
 | Megoldási megjegyzés | `MegoldasiMegj` | Több soros szöveg | Megoldott jegynél kötelező|
+![Hibajegyek adatmodell](images/01_hibajegyeklista.png)
 
 **Nézetek:** `Nyitott jegyek` (a Lezárva státuszú jegyek nélkül) és `Saját jegyeim` (Bejelentő = \[Me\]).
 
