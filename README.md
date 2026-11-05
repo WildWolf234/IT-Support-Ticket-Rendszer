@@ -126,6 +126,8 @@ A Lezárva dátumot nem a flow, hanem az app tölti ki, így a flow csak az ért
 
 **Oldalak elemei:** négy KPI kártya, három szeletelő (státusz, kategória, felelős), jegyek kategóriánként (sávdiagram), prioritás szerinti megoszlás (fánkdiagram), új jegyek havonta (vonaldiagram), nyitott jegyek táblázata feltételes formázással.
 
+![Power BI Riport](images/10_riport.png)
+
 ## 7. Tesztelés
 
 A riport és az app élethű működéséhez 50 magyar nyelvű teszt sort/rekordot töltöttem be, 2026. július végétől novemberig szétszórt dátumokkal, vegyes kategóriákkal, prioritásokkal és státuszokkal. A megoldási idő a prioritástól függ (a kritikus jegyek gyorsabban záródnak). A listában szerepelnek olyan adatok is amiket a új jegy ürlap kitöltésével hoztam létre.
