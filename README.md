@@ -5,6 +5,8 @@ Készítette: Ádám Adrián
 ## 1. Cél és felhasználók
 A projekt egy egyszerű, ServiceNow-szerű hibajegy-kezelő megoldás, amely a Microsoft Power Platform három eszközét köti össze: a Power Apps felületet, a Power Automate értesítéseket és a Power BI riportot. Adattárként egy SharePoint listát alkalmaztam.
 
+![Power Apps Dashboard](images/02_dashboard.png)
+
 **Felhasználói szerepkörök:**
 
 | Szerepkör | Mit tehet |
