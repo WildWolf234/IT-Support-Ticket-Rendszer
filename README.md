@@ -92,6 +92,15 @@ A lista neve Hibajegyek.
 
 A Lezárva dátumot nem a flow, hanem az app tölti ki, így a flow csak az értesítésért felel.
 
+![Új hibajegy értesítése](images/06_ujhibahjegy_ertesites.png)
+
+![Megoldott hibajegy értesítése](images/07_megoldotthibajegy_ertesites.png)
+
+![Új kritikus hibajegy email](images/09_ujkrtikushiba_email.png)
+
+![Megoldott hibajegy email](images/08_megoldotthibajegy_email.png)
+
+
 ## 6. Power BI riport
 
 **Adatforrás:** SharePoint Online List (2.0 implementáció) a site gyökér címéről.
