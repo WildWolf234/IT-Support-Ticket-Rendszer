@@ -57,6 +57,13 @@ A lista neve Hibajegyek.
 | `scrUjJegy` | Új jegy űrlap kötelező mezőkkel, validációval és hibakezeléssel |
 | `scrReszlet` | A jegy adatai, és ügyintézőknek szerkesztő rész: státuszváltás, megoldási megjegyzés, „Magamra veszem” gomb |
 
+![Hibajegyek kilistázása](images/03_jegylista.png)
+
+![Új hibajegy létrehozása](images/04_ujhibajegy.png)
+
+![Hibajegyek adatainak részletezése](images/05_jegyadatai.png)
+
+
 **Fontosabb megoldások:**
 
 - **Szerepkörös nézet:** a `varIsAgent` változó az e-mail cím alapján dönt. Az ügyintéző minden jegyet lát és szerkeszthet, a többi felhasználó csak a saját jegyeit látja, szerkesztő elemek nélkül.
